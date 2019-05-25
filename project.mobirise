@@ -24,8 +24,8 @@
         "display4Font": "Rubik",
         "display4Size": 1,
         "isRoundedButtons": true,
-        "isAnimatedOnScroll": false,
-        "isScrollToTopButton": false
+        "isAnimatedOnScroll": true,
+        "isScrollToTopButton": true
       },
       "additionalSetColors": [
         "#39ca06",
@@ -38,7 +38,7 @@
     "siteFonts": [],
     "uniqCompNum": 14,
     "versionPublish": "4.9.7",
-    "siteUrl": "https://sollucaodigital.github.io/OfertaEspecial/",
+    "siteUrl": "",
     "sitemapSwitcherAuto": "on",
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
     "robotsSwitcher": "on",
